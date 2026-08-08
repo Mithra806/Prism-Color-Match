@@ -14,6 +14,8 @@ A hardware version of the classic "Simon Says" memory game, built with a Raspber
 - 1x 220Ω resistor per LED color channel (3 total)
 - 1x 10kΩ resistor per button (3 total)
 - Breadboard + a bunch of male to male jumper wires
+- Extension board
+- Rainbow ribbon wire
 
 ## Wiring / GPIO Pinout
  
