@@ -30,4 +30,7 @@ A hardware version of the classic "Simon Says" memory game, built with a Raspber
  
 <img width="3024" height="4032" alt="WhatsApp Image 2026-08-07 at 10 34 53 PM" src="https://github.com/user-attachments/assets/d16b0381-7c5a-4e96-9657-dc7fc572c4d5" />
 
+<img width="1386" height="719" alt="image" src="https://github.com/user-attachments/assets/af2fba4a-82fd-4962-b501-53b826a3db81" />
+picture from: https://docs.sunfounder.com/projects/raphael-kit/en/latest/python_pi5/pi5_2.1.1_button_python.html
+
  
