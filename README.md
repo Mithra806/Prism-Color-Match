@@ -8,7 +8,7 @@ A hardware version of the classic "Simon Says" memory game, built with a Raspber
 3. **Correct guess** → a quick sequence of green, blue, red, red, blue, green flash plays, and the sequence grows by one color for the next round.
 4. **Wrong guess** → the LED flashes red 3 times, and the game resets back to a 3-color sequence.
    
-## Hardware
+## Hardware(All, besides the RasPI, included in the Raphaeil Kit)
 - Raspberry Pi (any model with GPIO)
 - 3x push buttons (red, green, blue)
 - 1x 220Ω resistor per LED color channel (3 total)
